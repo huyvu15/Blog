@@ -6,7 +6,7 @@
   <link href="https://huyvu15.github.io/atom.xml" rel="self"/>
   
   <link href="https://huyvu15.github.io/"/>
-  <updated>2024-07-04T13:11:36.041Z</updated>
+  <updated>2024-06-10T01:14:40.353Z</updated>
   <id>https://huyvu15.github.io/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Nghiên cứu khoa học như thế nào ở đại học</title>
+    <link href="https://huyvu15.github.io/posts/123ttr440"/>
+    <id>https://huyvu15.github.io/posts/123ttr440</id>
+    <published>2024-07-05T10:05:57.347Z</published>
+    <updated>2024-06-10T01:14:40.353Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;cách-đọc&quot;&gt;Cách đọc&lt;/h1&gt;
+&lt;p&gt;Cách tiếp cận học tập và nghiên cứu toán học có thể khai mở một thế giới mới của khám phá và ứng dụng.</summary>
+        
+      
+    
+    
+    
+    <category term="Learning" scheme="https://huyvu15.github.io/categories/Learning/"/>
+    
+    
+    <category term="NCKH" scheme="https://huyvu15.github.io/tags/NCKH/"/>
+    
+    <category term="Math" scheme="https://huyvu15.github.io/tags/Math/"/>
+    
+  </entry>
   
   <entry>
     <title>Kiến thức nền tảng Git</title>
@@ -28,7 +56,9 @@
       
         
         
-    <summary type="html">&lt;h1 id=&quot;Gioi-thieu&quot;&gt;&lt;a href=&quot;#Gioi-thieu&quot; class=&quot;headerlink&quot; title=&quot;Giới thiệu&quot;&gt;&lt;/a&gt;Giới thiệu&lt;/h1&gt;&lt;p&gt;Git là gì?&lt;br&gt;Bạn đang làm việc nhóm</summary>
+    <summary type="html">&lt;h1 id=&quot;giới-thiệu&quot;&gt;Giới thiệu&lt;/h1&gt;
+&lt;p&gt;Git là gì?&lt;br&gt;
+Bạn đang làm việc nhóm và cần thuyết trình về một chủ đề nào đó. Các thành viên trong</summary>
         
       
     
@@ -53,7 +83,8 @@
       
         
         
-    <summary type="html">&lt;h1 id=&quot;Loi-noi-dau&quot;&gt;&lt;a href=&quot;#Loi-noi-dau&quot; class=&quot;headerlink&quot; title=&quot;Lời nói đầu&quot;&gt;&lt;/a&gt;Lời nói đầu&lt;/h1&gt;&lt;p&gt;Nghệ thuật chụp ảnh bao giờ cũng</summary>
+    <summary type="html">&lt;h1 id=&quot;lời-nói-đầu&quot;&gt;Lời nói đầu&lt;/h1&gt;
+&lt;p&gt;Nghệ thuật chụp ảnh bao giờ cũng cần thiết, không phải chụp cho bản thân thì cũng cần phải chụp</summary>
         
       
     
@@ -111,7 +142,7 @@
       
         
         
-    <summary type="html">&lt;p&gt;Thời lượng 9 giờ 32 phút. Gồm 69 bài học. Hoàn thành có chứng chỉ. &lt;/p&gt;
+    <summary type="html">&lt;p&gt;Thời lượng 9 giờ 32 phút. Gồm 69 bài học. Hoàn thành có chứng chỉ.&lt;/p&gt;
 &lt;h1</summary>
         
       
@@ -194,9 +225,9 @@
     <category term="DL" scheme="https://huyvu15.github.io/categories/AI/ML/DL/"/>
     
     
-    <category term="Knownledge" scheme="https://huyvu15.github.io/tags/Knownledge/"/>
-    
     <category term="AI" scheme="https://huyvu15.github.io/tags/AI/"/>
+    
+    <category term="Knownledge" scheme="https://huyvu15.github.io/tags/Knownledge/"/>
     
     <category term="ML" scheme="https://huyvu15.github.io/tags/ML/"/>
     
@@ -221,13 +252,13 @@
     <category term="Note" scheme="https://huyvu15.github.io/categories/Award/Note/"/>
     
     
-    <category term="Encrypted" scheme="https://huyvu15.github.io/tags/Encrypted/"/>
-    
     <category term="Me" scheme="https://huyvu15.github.io/tags/Me/"/>
     
     <category term="Note" scheme="https://huyvu15.github.io/tags/Note/"/>
     
     <category term="Award" scheme="https://huyvu15.github.io/tags/Award/"/>
+    
+    <category term="Encrypted" scheme="https://huyvu15.github.io/tags/Encrypted/"/>
     
   </entry>
   
@@ -244,7 +275,9 @@
         
         
     <summary type="html">&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Protect messeger: dùng để che, làm mờ tin nhắn khi nhắn tin với bạn bè trên facebook, nó sẽ tự&lt;br&gt;làm mờ, đảo ngược chữ của tên</summary>
+&lt;li&gt;
+&lt;p&gt;Protect messeger: dùng để che, làm mờ tin nhắn khi nhắn tin với bạn bè trên facebook, nó sẽ tự&lt;br&gt;
+làm mờ, đảo ngược chữ của</summary>
         
       
     
@@ -266,35 +299,6 @@
   </entry>
   
   <entry>
-    <title>Ý tưởng tạo module hay và thú vị bởi các thuật toán trong machine learning</title>
-    <link href="https://huyvu15.github.io/posts/166d396f"/>
-    <id>https://huyvu15.github.io/posts/166d396f</id>
-    <published>2024-06-30T00:35:12.000Z</published>
-    <updated>2024-06-30T00:28:02.913Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;Chả là ngày xưa lúc mới học machine learning tôi cũng hay mơ tưởng đến sức mạnh của các bài toán và công cụ machine learning. Hồi đó</summary>
-        
-      
-    
-    
-    
-    <category term="ML" scheme="https://huyvu15.github.io/categories/ML/"/>
-    
-    
-    <category term="Knownledge" scheme="https://huyvu15.github.io/tags/Knownledge/"/>
-    
-    <category term="ML" scheme="https://huyvu15.github.io/tags/ML/"/>
-    
-    <category term="Idea" scheme="https://huyvu15.github.io/tags/Idea/"/>
-    
-  </entry>
-  
-  <entry>
     <title>AI và một vài cái hay ho</title>
     <link href="https://huyvu15.github.io/posts/1r6d393f"/>
     <id>https://huyvu15.github.io/posts/1r6d393f</id>
@@ -306,7 +310,9 @@
       
         
         
-    <summary type="html">&lt;h1 id=&quot;Tuyen-dung-cua-meta&quot;&gt;&lt;a href=&quot;#Tuyen-dung-cua-meta&quot; class=&quot;headerlink&quot; title=&quot;Tuyển dụng của meta&quot;&gt;&lt;/a&gt;Tuyển dụng của</summary>
+    <summary type="html">&lt;h1 id=&quot;tuyển-dụng-của-meta&quot;&gt;Tuyển dụng của meta&lt;/h1&gt;
+&lt;p&gt;Có bài báo khoa học hoặc có đóng góp lớn&lt;/p&gt;
+&lt;h1 id=&quot;công-việc-thực-tế&quot;&gt;công việc</summary>
         
       
     
@@ -315,9 +321,9 @@
     <category term="AI" scheme="https://huyvu15.github.io/categories/AI/"/>
     
     
-    <category term="Knownledge" scheme="https://huyvu15.github.io/tags/Knownledge/"/>
-    
     <category term="AI" scheme="https://huyvu15.github.io/tags/AI/"/>
+    
+    <category term="Knownledge" scheme="https://huyvu15.github.io/tags/Knownledge/"/>
     
   </entry>
   
@@ -351,6 +357,35 @@
     <category term="Hay ho" scheme="https://huyvu15.github.io/tags/Hay-ho/"/>
     
     <category term="Google" scheme="https://huyvu15.github.io/tags/Google/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Ý tưởng tạo module hay và thú vị bởi các thuật toán trong machine learning</title>
+    <link href="https://huyvu15.github.io/posts/166d396f"/>
+    <id>https://huyvu15.github.io/posts/166d396f</id>
+    <published>2024-06-30T00:35:12.000Z</published>
+    <updated>2024-06-30T00:28:02.913Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Chả là ngày xưa lúc mới học machine learning tôi cũng hay mơ tưởng đến sức mạnh của các bài toán và công cụ machine learning. Hồi đó</summary>
+        
+      
+    
+    
+    
+    <category term="ML" scheme="https://huyvu15.github.io/categories/ML/"/>
+    
+    
+    <category term="Knownledge" scheme="https://huyvu15.github.io/tags/Knownledge/"/>
+    
+    <category term="ML" scheme="https://huyvu15.github.io/tags/ML/"/>
+    
+    <category term="Idea" scheme="https://huyvu15.github.io/tags/Idea/"/>
     
   </entry>
   
@@ -530,15 +565,15 @@
     <category term="Hiểu biết" scheme="https://huyvu15.github.io/categories/Hieu-biet/"/>
     
     
+    <category term="Knownledge" scheme="https://huyvu15.github.io/tags/Knownledge/"/>
+    
     <category term="Data" scheme="https://huyvu15.github.io/tags/Data/"/>
     
-    <category term="Knownledge" scheme="https://huyvu15.github.io/tags/Knownledge/"/>
+    <category term="Encrypted" scheme="https://huyvu15.github.io/tags/Encrypted/"/>
     
     <category term="Secure" scheme="https://huyvu15.github.io/tags/Secure/"/>
     
     <category term="Cần trả lời" scheme="https://huyvu15.github.io/tags/Can-tra-loi/"/>
-    
-    <category term="Encrypted" scheme="https://huyvu15.github.io/tags/Encrypted/"/>
     
   </entry>
   
@@ -601,46 +636,11 @@
     <category term="DE" scheme="https://huyvu15.github.io/categories/DE/"/>
     
     
+    <category term="Knownledge" scheme="https://huyvu15.github.io/tags/Knownledge/"/>
+    
     <category term="DE" scheme="https://huyvu15.github.io/tags/DE/"/>
     
     <category term="Data" scheme="https://huyvu15.github.io/tags/Data/"/>
-    
-    <category term="Knownledge" scheme="https://huyvu15.github.io/tags/Knownledge/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Mẹo hay cho máy tính của bạn</title>
-    <link href="https://huyvu15.github.io/posts/13t2c31"/>
-    <id>https://huyvu15.github.io/posts/13t2c31</id>
-    <published>2024-06-10T05:17:12.000Z</published>
-    <updated>2024-06-27T10:53:51.237Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;mẹo-hay-cho-my-laptop&quot;&gt;Mẹo hay cho my laptop:&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;Window + R :&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;gõ cmd&lt;br&gt;
-tiếp sau đó gõ netsh</summary>
-        
-      
-    
-    
-    
-    <category term="Windows" scheme="https://huyvu15.github.io/categories/Windows/"/>
-    
-    
-    <category term="CMD" scheme="https://huyvu15.github.io/tags/CMD/"/>
-    
-    <category term="Laptop" scheme="https://huyvu15.github.io/tags/Laptop/"/>
-    
-    <category term="Hacker" scheme="https://huyvu15.github.io/tags/Hacker/"/>
     
   </entry>
   
