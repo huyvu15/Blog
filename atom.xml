@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Blog&#39;s GluTis</title>
-  <icon>https://huyvu15.github.io/icon.png</icon>
+  <icon>https://huyvu15.github.io/Blog/icon.png</icon>
   <subtitle>Năng lượng, tích cực</subtitle>
-  <link href="https://huyvu15.github.io/atom.xml" rel="self"/>
+  <link href="https://huyvu15.github.io/Blog/atom.xml" rel="self"/>
   
-  <link href="https://huyvu15.github.io/"/>
+  <link href="https://huyvu15.github.io/Blog/"/>
   <updated>2024-06-10T01:14:40.353Z</updated>
-  <id>https://huyvu15.github.io/</id>
+  <id>https://huyvu15.github.io/Blog/</id>
   
   <author>
     <name>GluTis</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Nghiên cứu khoa học như thế nào ở đại học</title>
-    <link href="https://huyvu15.github.io/posts/123ttr440"/>
-    <id>https://huyvu15.github.io/posts/123ttr440</id>
+    <link href="https://huyvu15.github.io/Blog/posts/123ttr440"/>
+    <id>https://huyvu15.github.io/Blog/posts/123ttr440</id>
     <published>2024-07-05T10:05:57.347Z</published>
     <updated>2024-06-10T01:14:40.353Z</updated>
     
@@ -35,19 +35,19 @@
     
     
     
-    <category term="Learning" scheme="https://huyvu15.github.io/categories/Learning/"/>
+    <category term="Learning" scheme="https://huyvu15.github.io/Blog/categories/Learning/"/>
     
     
-    <category term="NCKH" scheme="https://huyvu15.github.io/tags/NCKH/"/>
+    <category term="NCKH" scheme="https://huyvu15.github.io/Blog/tags/NCKH/"/>
     
-    <category term="Math" scheme="https://huyvu15.github.io/tags/Math/"/>
+    <category term="Math" scheme="https://huyvu15.github.io/Blog/tags/Math/"/>
     
   </entry>
   
   <entry>
     <title>Kiến thức nền tảng Git</title>
-    <link href="https://huyvu15.github.io/posts/git111f"/>
-    <id>https://huyvu15.github.io/posts/git111f</id>
+    <link href="https://huyvu15.github.io/Blog/posts/git111f"/>
+    <id>https://huyvu15.github.io/Blog/posts/git111f</id>
     <published>2024-07-04T09:35:12.000Z</published>
     <updated>2024-07-04T13:11:36.041Z</updated>
     
@@ -64,17 +64,17 @@ Bạn đang làm việc nhóm và cần thuyết trình về một chủ đề n
     
     
     
-    <category term="Git" scheme="https://huyvu15.github.io/categories/Git/"/>
+    <category term="Git" scheme="https://huyvu15.github.io/Blog/categories/Git/"/>
     
     
-    <category term="Git" scheme="https://huyvu15.github.io/tags/Git/"/>
+    <category term="Git" scheme="https://huyvu15.github.io/Blog/tags/Git/"/>
     
   </entry>
   
   <entry>
     <title>Làm chủ nghệ thuật nhiếp ảnh đường phố điện ảnh</title>
-    <link href="https://huyvu15.github.io/posts/artf393f"/>
-    <id>https://huyvu15.github.io/posts/artf393f</id>
+    <link href="https://huyvu15.github.io/Blog/posts/artf393f"/>
+    <id>https://huyvu15.github.io/Blog/posts/artf393f</id>
     <published>2024-07-04T08:35:12.000Z</published>
     <updated>2024-07-04T09:14:03.941Z</updated>
     
@@ -90,19 +90,19 @@ Bạn đang làm việc nhóm và cần thuyết trình về một chủ đề n
     
     
     
-    <category term="Photography" scheme="https://huyvu15.github.io/categories/Photography/"/>
+    <category term="Photography" scheme="https://huyvu15.github.io/Blog/categories/Photography/"/>
     
     
-    <category term="Art" scheme="https://huyvu15.github.io/tags/Art/"/>
+    <category term="Art" scheme="https://huyvu15.github.io/Blog/tags/Art/"/>
     
-    <category term="Photography" scheme="https://huyvu15.github.io/tags/Photography/"/>
+    <category term="Photography" scheme="https://huyvu15.github.io/Blog/tags/Photography/"/>
     
   </entry>
   
   <entry>
     <title>Chia sẻ tài nguyên học tập</title>
-    <link href="https://huyvu15.github.io/posts/1r6dffff"/>
-    <id>https://huyvu15.github.io/posts/1r6dffff</id>
+    <link href="https://huyvu15.github.io/Blog/posts/1r6dffff"/>
+    <id>https://huyvu15.github.io/Blog/posts/1r6dffff</id>
     <published>2024-07-01T04:30:32.000Z</published>
     <updated>2024-07-02T03:55:38.264Z</updated>
     
@@ -117,23 +117,23 @@ Bạn đang làm việc nhóm và cần thuyết trình về một chủ đề n
     
     
     
-    <category term="Sharing" scheme="https://huyvu15.github.io/categories/Sharing/"/>
+    <category term="Sharing" scheme="https://huyvu15.github.io/Blog/categories/Sharing/"/>
     
     
-    <category term="Resources" scheme="https://huyvu15.github.io/tags/Resources/"/>
+    <category term="Resources" scheme="https://huyvu15.github.io/Blog/tags/Resources/"/>
     
-    <category term="Sharing" scheme="https://huyvu15.github.io/tags/Sharing/"/>
+    <category term="Sharing" scheme="https://huyvu15.github.io/Blog/tags/Sharing/"/>
     
-    <category term="Courses" scheme="https://huyvu15.github.io/tags/Courses/"/>
+    <category term="Courses" scheme="https://huyvu15.github.io/Blog/tags/Courses/"/>
     
-    <category term="Tổng hợp" scheme="https://huyvu15.github.io/tags/Tong-hop/"/>
+    <category term="Tổng hợp" scheme="https://huyvu15.github.io/Blog/tags/Tong-hop/"/>
     
   </entry>
   
   <entry>
     <title>Review khóa Devops for Freshers của devopsedu</title>
-    <link href="https://huyvu15.github.io/posts/1r6d39ff"/>
-    <id>https://huyvu15.github.io/posts/1r6d39ff</id>
+    <link href="https://huyvu15.github.io/Blog/posts/1r6d39ff"/>
+    <id>https://huyvu15.github.io/Blog/posts/1r6d39ff</id>
     <published>2024-06-30T17:00:12.000Z</published>
     <updated>2024-07-05T09:26:56.608Z</updated>
     
@@ -149,19 +149,19 @@ Bạn đang làm việc nhóm và cần thuyết trình về một chủ đề n
     
     
     
-    <category term="Devops" scheme="https://huyvu15.github.io/categories/Devops/"/>
+    <category term="Devops" scheme="https://huyvu15.github.io/Blog/categories/Devops/"/>
     
     
-    <category term="Review" scheme="https://huyvu15.github.io/tags/Review/"/>
+    <category term="Review" scheme="https://huyvu15.github.io/Blog/tags/Review/"/>
     
-    <category term="Devops" scheme="https://huyvu15.github.io/tags/Devops/"/>
+    <category term="Devops" scheme="https://huyvu15.github.io/Blog/tags/Devops/"/>
     
   </entry>
   
   <entry>
     <title>NHẬN THÔNG BÁO CHI TIÊU CHO HOẠT ĐỘNG MUA SẮP TẠI SHOPEE</title>
-    <link href="https://huyvu15.github.io/posts/1n6d313f"/>
-    <id>https://huyvu15.github.io/posts/1n6d313f</id>
+    <link href="https://huyvu15.github.io/Blog/posts/1n6d313f"/>
+    <id>https://huyvu15.github.io/Blog/posts/1n6d313f</id>
     <published>2024-06-30T15:41:22.000Z</published>
     <updated>2024-06-30T15:45:12.040Z</updated>
     
@@ -177,33 +177,33 @@ Bạn đang làm việc nhóm và cần thuyết trình về một chủ đề n
     
     
     
-    <category term="AWS" scheme="https://huyvu15.github.io/categories/AWS/"/>
+    <category term="AWS" scheme="https://huyvu15.github.io/Blog/categories/AWS/"/>
     
-    <category term="Hugo" scheme="https://huyvu15.github.io/categories/AWS/Hugo/"/>
+    <category term="Hugo" scheme="https://huyvu15.github.io/Blog/categories/AWS/Hugo/"/>
     
     
-    <category term="AWS" scheme="https://huyvu15.github.io/tags/AWS/"/>
+    <category term="AWS" scheme="https://huyvu15.github.io/Blog/tags/AWS/"/>
     
-    <category term="Hugo" scheme="https://huyvu15.github.io/tags/Hugo/"/>
+    <category term="Hugo" scheme="https://huyvu15.github.io/Blog/tags/Hugo/"/>
     
-    <category term="Shopee" scheme="https://huyvu15.github.io/tags/Shopee/"/>
+    <category term="Shopee" scheme="https://huyvu15.github.io/Blog/tags/Shopee/"/>
     
-    <category term="Lambda function" scheme="https://huyvu15.github.io/tags/Lambda-function/"/>
+    <category term="Lambda function" scheme="https://huyvu15.github.io/Blog/tags/Lambda-function/"/>
     
-    <category term="S3" scheme="https://huyvu15.github.io/tags/S3/"/>
+    <category term="S3" scheme="https://huyvu15.github.io/Blog/tags/S3/"/>
     
-    <category term="EventBridge" scheme="https://huyvu15.github.io/tags/EventBridge/"/>
+    <category term="EventBridge" scheme="https://huyvu15.github.io/Blog/tags/EventBridge/"/>
     
-    <category term="Crawl" scheme="https://huyvu15.github.io/tags/Crawl/"/>
+    <category term="Crawl" scheme="https://huyvu15.github.io/Blog/tags/Crawl/"/>
     
-    <category term="API" scheme="https://huyvu15.github.io/tags/API/"/>
+    <category term="API" scheme="https://huyvu15.github.io/Blog/tags/API/"/>
     
   </entry>
   
   <entry>
     <title>Kĩ thuật Transfer Learning và Fineturning Learning</title>
-    <link href="https://huyvu15.github.io/posts/1r6c393f"/>
-    <id>https://huyvu15.github.io/posts/1r6c393f</id>
+    <link href="https://huyvu15.github.io/Blog/posts/1r6c393f"/>
+    <id>https://huyvu15.github.io/Blog/posts/1r6c393f</id>
     <published>2024-06-30T01:35:12.000Z</published>
     <updated>2024-06-30T01:26:42.124Z</updated>
     
@@ -218,27 +218,27 @@ Bạn đang làm việc nhóm và cần thuyết trình về một chủ đề n
     
     
     
-    <category term="AI" scheme="https://huyvu15.github.io/categories/AI/"/>
+    <category term="AI" scheme="https://huyvu15.github.io/Blog/categories/AI/"/>
     
-    <category term="ML" scheme="https://huyvu15.github.io/categories/AI/ML/"/>
+    <category term="ML" scheme="https://huyvu15.github.io/Blog/categories/AI/ML/"/>
     
-    <category term="DL" scheme="https://huyvu15.github.io/categories/AI/ML/DL/"/>
+    <category term="DL" scheme="https://huyvu15.github.io/Blog/categories/AI/ML/DL/"/>
     
     
-    <category term="AI" scheme="https://huyvu15.github.io/tags/AI/"/>
+    <category term="AI" scheme="https://huyvu15.github.io/Blog/tags/AI/"/>
     
-    <category term="Knownledge" scheme="https://huyvu15.github.io/tags/Knownledge/"/>
+    <category term="Knownledge" scheme="https://huyvu15.github.io/Blog/tags/Knownledge/"/>
     
-    <category term="ML" scheme="https://huyvu15.github.io/tags/ML/"/>
+    <category term="ML" scheme="https://huyvu15.github.io/Blog/tags/ML/"/>
     
-    <category term="DL" scheme="https://huyvu15.github.io/tags/DL/"/>
+    <category term="DL" scheme="https://huyvu15.github.io/Blog/tags/DL/"/>
     
   </entry>
   
   <entry>
     <title>Tất cả thành tích của tôi từ trước đến nay</title>
-    <link href="https://huyvu15.github.io/posts/0r6e2o2f"/>
-    <id>https://huyvu15.github.io/posts/0r6e2o2f</id>
+    <link href="https://huyvu15.github.io/Blog/posts/0r6e2o2f"/>
+    <id>https://huyvu15.github.io/Blog/posts/0r6e2o2f</id>
     <published>2024-06-30T01:17:12.000Z</published>
     <updated>2024-06-30T01:06:27.333Z</updated>
     
@@ -247,25 +247,25 @@ Bạn đang làm việc nhóm và cần thuyết trình về một chủ đề n
     
     
     
-    <category term="Award" scheme="https://huyvu15.github.io/categories/Award/"/>
+    <category term="Award" scheme="https://huyvu15.github.io/Blog/categories/Award/"/>
     
-    <category term="Note" scheme="https://huyvu15.github.io/categories/Award/Note/"/>
+    <category term="Note" scheme="https://huyvu15.github.io/Blog/categories/Award/Note/"/>
     
     
-    <category term="Me" scheme="https://huyvu15.github.io/tags/Me/"/>
+    <category term="Me" scheme="https://huyvu15.github.io/Blog/tags/Me/"/>
     
-    <category term="Note" scheme="https://huyvu15.github.io/tags/Note/"/>
+    <category term="Note" scheme="https://huyvu15.github.io/Blog/tags/Note/"/>
     
-    <category term="Award" scheme="https://huyvu15.github.io/tags/Award/"/>
+    <category term="Award" scheme="https://huyvu15.github.io/Blog/tags/Award/"/>
     
-    <category term="Encrypted" scheme="https://huyvu15.github.io/tags/Encrypted/"/>
+    <category term="Encrypted" scheme="https://huyvu15.github.io/Blog/tags/Encrypted/"/>
     
   </entry>
   
   <entry>
     <title>Synthetic some extension interesting in Chorme</title>
-    <link href="https://huyvu15.github.io/posts/1r6df93f"/>
-    <id>https://huyvu15.github.io/posts/1r6df93f</id>
+    <link href="https://huyvu15.github.io/Blog/posts/1r6df93f"/>
+    <id>https://huyvu15.github.io/Blog/posts/1r6df93f</id>
     <published>2024-06-30T00:55:12.000Z</published>
     <updated>2024-06-30T00:52:45.656Z</updated>
     
@@ -283,25 +283,25 @@ làm mờ, đảo ngược chữ của</summary>
     
     
     
-    <category term="Extension" scheme="https://huyvu15.github.io/categories/Extension/"/>
+    <category term="Extension" scheme="https://huyvu15.github.io/Blog/categories/Extension/"/>
     
-    <category term="Chrome" scheme="https://huyvu15.github.io/categories/Extension/Chrome/"/>
+    <category term="Chrome" scheme="https://huyvu15.github.io/Blog/categories/Extension/Chrome/"/>
     
     
-    <category term="Knownledge" scheme="https://huyvu15.github.io/tags/Knownledge/"/>
+    <category term="Knownledge" scheme="https://huyvu15.github.io/Blog/tags/Knownledge/"/>
     
-    <category term="Web" scheme="https://huyvu15.github.io/tags/Web/"/>
+    <category term="Web" scheme="https://huyvu15.github.io/Blog/tags/Web/"/>
     
-    <category term="Chrome" scheme="https://huyvu15.github.io/tags/Chrome/"/>
+    <category term="Chrome" scheme="https://huyvu15.github.io/Blog/tags/Chrome/"/>
     
-    <category term="Extension" scheme="https://huyvu15.github.io/tags/Extension/"/>
+    <category term="Extension" scheme="https://huyvu15.github.io/Blog/tags/Extension/"/>
     
   </entry>
   
   <entry>
     <title>AI và một vài cái hay ho</title>
-    <link href="https://huyvu15.github.io/posts/1r6d393f"/>
-    <id>https://huyvu15.github.io/posts/1r6d393f</id>
+    <link href="https://huyvu15.github.io/Blog/posts/1r6d393f"/>
+    <id>https://huyvu15.github.io/Blog/posts/1r6d393f</id>
     <published>2024-06-30T00:35:12.000Z</published>
     <updated>2024-06-30T00:39:36.695Z</updated>
     
@@ -318,19 +318,19 @@ làm mờ, đảo ngược chữ của</summary>
     
     
     
-    <category term="AI" scheme="https://huyvu15.github.io/categories/AI/"/>
+    <category term="AI" scheme="https://huyvu15.github.io/Blog/categories/AI/"/>
     
     
-    <category term="AI" scheme="https://huyvu15.github.io/tags/AI/"/>
+    <category term="AI" scheme="https://huyvu15.github.io/Blog/tags/AI/"/>
     
-    <category term="Knownledge" scheme="https://huyvu15.github.io/tags/Knownledge/"/>
+    <category term="Knownledge" scheme="https://huyvu15.github.io/Blog/tags/Knownledge/"/>
     
   </entry>
   
   <entry>
     <title>Hay ho với Google</title>
-    <link href="https://huyvu15.github.io/posts/156d393f"/>
-    <id>https://huyvu15.github.io/posts/156d393f</id>
+    <link href="https://huyvu15.github.io/Blog/posts/156d393f"/>
+    <id>https://huyvu15.github.io/Blog/posts/156d393f</id>
     <published>2024-06-30T00:35:12.000Z</published>
     <updated>2024-06-30T00:56:45.509Z</updated>
     
@@ -345,25 +345,25 @@ làm mờ, đảo ngược chữ của</summary>
     
     
     
-    <category term="Google" scheme="https://huyvu15.github.io/categories/Google/"/>
+    <category term="Google" scheme="https://huyvu15.github.io/Blog/categories/Google/"/>
     
-    <category term="Hay ho" scheme="https://huyvu15.github.io/categories/Google/Hay-ho/"/>
+    <category term="Hay ho" scheme="https://huyvu15.github.io/Blog/categories/Google/Hay-ho/"/>
     
     
-    <category term="Knownledge" scheme="https://huyvu15.github.io/tags/Knownledge/"/>
+    <category term="Knownledge" scheme="https://huyvu15.github.io/Blog/tags/Knownledge/"/>
     
-    <category term="Nice" scheme="https://huyvu15.github.io/tags/Nice/"/>
+    <category term="Nice" scheme="https://huyvu15.github.io/Blog/tags/Nice/"/>
     
-    <category term="Hay ho" scheme="https://huyvu15.github.io/tags/Hay-ho/"/>
+    <category term="Hay ho" scheme="https://huyvu15.github.io/Blog/tags/Hay-ho/"/>
     
-    <category term="Google" scheme="https://huyvu15.github.io/tags/Google/"/>
+    <category term="Google" scheme="https://huyvu15.github.io/Blog/tags/Google/"/>
     
   </entry>
   
   <entry>
     <title>Ý tưởng tạo module hay và thú vị bởi các thuật toán trong machine learning</title>
-    <link href="https://huyvu15.github.io/posts/166d396f"/>
-    <id>https://huyvu15.github.io/posts/166d396f</id>
+    <link href="https://huyvu15.github.io/Blog/posts/166d396f"/>
+    <id>https://huyvu15.github.io/Blog/posts/166d396f</id>
     <published>2024-06-30T00:35:12.000Z</published>
     <updated>2024-06-30T00:28:02.913Z</updated>
     
@@ -378,21 +378,21 @@ làm mờ, đảo ngược chữ của</summary>
     
     
     
-    <category term="ML" scheme="https://huyvu15.github.io/categories/ML/"/>
+    <category term="ML" scheme="https://huyvu15.github.io/Blog/categories/ML/"/>
     
     
-    <category term="Knownledge" scheme="https://huyvu15.github.io/tags/Knownledge/"/>
+    <category term="Knownledge" scheme="https://huyvu15.github.io/Blog/tags/Knownledge/"/>
     
-    <category term="ML" scheme="https://huyvu15.github.io/tags/ML/"/>
+    <category term="ML" scheme="https://huyvu15.github.io/Blog/tags/ML/"/>
     
-    <category term="Idea" scheme="https://huyvu15.github.io/tags/Idea/"/>
+    <category term="Idea" scheme="https://huyvu15.github.io/Blog/tags/Idea/"/>
     
   </entry>
   
   <entry>
     <title>Một vài trang web có thể cần thiết cho bạn</title>
-    <link href="https://huyvu15.github.io/posts/1r6d3964"/>
-    <id>https://huyvu15.github.io/posts/1r6d3964</id>
+    <link href="https://huyvu15.github.io/Blog/posts/1r6d3964"/>
+    <id>https://huyvu15.github.io/Blog/posts/1r6d3964</id>
     <published>2024-06-30T00:35:12.000Z</published>
     <updated>2024-06-30T00:48:26.637Z</updated>
     
@@ -407,23 +407,23 @@ làm mờ, đảo ngược chữ của</summary>
     
     
     
-    <category term="Need" scheme="https://huyvu15.github.io/categories/Need/"/>
+    <category term="Need" scheme="https://huyvu15.github.io/Blog/categories/Need/"/>
     
-    <category term="Web" scheme="https://huyvu15.github.io/categories/Need/Web/"/>
+    <category term="Web" scheme="https://huyvu15.github.io/Blog/categories/Need/Web/"/>
     
     
-    <category term="Knownledge" scheme="https://huyvu15.github.io/tags/Knownledge/"/>
+    <category term="Knownledge" scheme="https://huyvu15.github.io/Blog/tags/Knownledge/"/>
     
-    <category term="Web" scheme="https://huyvu15.github.io/tags/Web/"/>
+    <category term="Web" scheme="https://huyvu15.github.io/Blog/tags/Web/"/>
     
-    <category term="You need" scheme="https://huyvu15.github.io/tags/You-need/"/>
+    <category term="You need" scheme="https://huyvu15.github.io/Blog/tags/You-need/"/>
     
   </entry>
   
   <entry>
     <title>Mọi người đã nghe về chứng chỉ Github bao giờ chưa ?</title>
-    <link href="https://huyvu15.github.io/posts/er6d090f"/>
-    <id>https://huyvu15.github.io/posts/er6d090f</id>
+    <link href="https://huyvu15.github.io/Blog/posts/er6d090f"/>
+    <id>https://huyvu15.github.io/Blog/posts/er6d090f</id>
     <published>2024-06-28T18:35:12.000Z</published>
     <updated>2024-07-02T01:39:36.271Z</updated>
     
@@ -439,25 +439,25 @@ làm mờ, đảo ngược chữ của</summary>
     
     
     
-    <category term="Github" scheme="https://huyvu15.github.io/categories/Github/"/>
+    <category term="Github" scheme="https://huyvu15.github.io/Blog/categories/Github/"/>
     
-    <category term="Certificate" scheme="https://huyvu15.github.io/categories/Github/Certificate/"/>
+    <category term="Certificate" scheme="https://huyvu15.github.io/Blog/categories/Github/Certificate/"/>
     
     
-    <category term="Github" scheme="https://huyvu15.github.io/tags/Github/"/>
+    <category term="Github" scheme="https://huyvu15.github.io/Blog/tags/Github/"/>
     
-    <category term="Cert" scheme="https://huyvu15.github.io/tags/Cert/"/>
+    <category term="Cert" scheme="https://huyvu15.github.io/Blog/tags/Cert/"/>
     
-    <category term="Learn" scheme="https://huyvu15.github.io/tags/Learn/"/>
+    <category term="Learn" scheme="https://huyvu15.github.io/Blog/tags/Learn/"/>
     
-    <category term="News" scheme="https://huyvu15.github.io/tags/News/"/>
+    <category term="News" scheme="https://huyvu15.github.io/Blog/tags/News/"/>
     
   </entry>
   
   <entry>
     <title>Cách bật âm thanh trên máy chủ ảo EC2 Windown</title>
-    <link href="https://huyvu15.github.io/posts/tr6d096f"/>
-    <id>https://huyvu15.github.io/posts/tr6d096f</id>
+    <link href="https://huyvu15.github.io/Blog/posts/tr6d096f"/>
+    <id>https://huyvu15.github.io/Blog/posts/tr6d096f</id>
     <published>2024-06-28T18:35:12.000Z</published>
     <updated>2024-07-02T01:39:50.209Z</updated>
     
@@ -474,23 +474,23 @@ làm mờ, đảo ngược chữ của</summary>
     
     
     
-    <category term="AWS" scheme="https://huyvu15.github.io/categories/AWS/"/>
+    <category term="AWS" scheme="https://huyvu15.github.io/Blog/categories/AWS/"/>
     
-    <category term="Tips" scheme="https://huyvu15.github.io/categories/AWS/Tips/"/>
+    <category term="Tips" scheme="https://huyvu15.github.io/Blog/categories/AWS/Tips/"/>
     
     
-    <category term="EC2" scheme="https://huyvu15.github.io/tags/EC2/"/>
+    <category term="EC2" scheme="https://huyvu15.github.io/Blog/tags/EC2/"/>
     
-    <category term="Start" scheme="https://huyvu15.github.io/tags/Start/"/>
+    <category term="Start" scheme="https://huyvu15.github.io/Blog/tags/Start/"/>
     
-    <category term="Tricks lỏ" scheme="https://huyvu15.github.io/tags/Tricks-lo/"/>
+    <category term="Tricks lỏ" scheme="https://huyvu15.github.io/Blog/tags/Tricks-lo/"/>
     
   </entry>
   
   <entry>
     <title>Những Khoảnh Khắc Được Ghi Lại. Bộ Sưu Tập Hình Ảnh Của Tôi</title>
-    <link href="https://huyvu15.github.io/posts/yds123d"/>
-    <id>https://huyvu15.github.io/posts/yds123d</id>
+    <link href="https://huyvu15.github.io/Blog/posts/yds123d"/>
+    <id>https://huyvu15.github.io/Blog/posts/yds123d</id>
     <published>2024-06-27T15:35:12.000Z</published>
     <updated>2024-06-27T16:07:19.331Z</updated>
     
@@ -508,19 +508,19 @@ làm mờ, đảo ngược chữ của</summary>
     
     
     
-    <category term="Gallery" scheme="https://huyvu15.github.io/categories/Gallery/"/>
+    <category term="Gallery" scheme="https://huyvu15.github.io/Blog/categories/Gallery/"/>
     
     
-    <category term="Images" scheme="https://huyvu15.github.io/tags/Images/"/>
+    <category term="Images" scheme="https://huyvu15.github.io/Blog/tags/Images/"/>
     
-    <category term="Memories" scheme="https://huyvu15.github.io/tags/Memories/"/>
+    <category term="Memories" scheme="https://huyvu15.github.io/Blog/tags/Memories/"/>
     
   </entry>
   
   <entry>
     <title>Hành Trình Xây Dựng Blog này !</title>
-    <link href="https://huyvu15.github.io/posts/dr6v212f"/>
-    <id>https://huyvu15.github.io/posts/dr6v212f</id>
+    <link href="https://huyvu15.github.io/Blog/posts/dr6v212f"/>
+    <id>https://huyvu15.github.io/Blog/posts/dr6v212f</id>
     <published>2024-06-27T11:17:12.000Z</published>
     <updated>2024-06-27T15:23:39.706Z</updated>
     
@@ -537,23 +537,23 @@ làm mờ, đảo ngược chữ của</summary>
     
     
     
-    <category term="Blog" scheme="https://huyvu15.github.io/categories/Blog/"/>
+    <category term="Blog" scheme="https://huyvu15.github.io/Blog/categories/Blog/"/>
     
     
-    <category term="Knownledge" scheme="https://huyvu15.github.io/tags/Knownledge/"/>
+    <category term="Knownledge" scheme="https://huyvu15.github.io/Blog/tags/Knownledge/"/>
     
-    <category term="Building" scheme="https://huyvu15.github.io/tags/Building/"/>
+    <category term="Building" scheme="https://huyvu15.github.io/Blog/tags/Building/"/>
     
-    <category term="Blog" scheme="https://huyvu15.github.io/tags/Blog/"/>
+    <category term="Blog" scheme="https://huyvu15.github.io/Blog/tags/Blog/"/>
     
-    <category term="Journeys" scheme="https://huyvu15.github.io/tags/Journeys/"/>
+    <category term="Journeys" scheme="https://huyvu15.github.io/Blog/tags/Journeys/"/>
     
   </entry>
   
   <entry>
     <title>Tìm Lại Kiến Thức Trong Tháng 6</title>
-    <link href="https://huyvu15.github.io/posts/0r6e292f"/>
-    <id>https://huyvu15.github.io/posts/0r6e292f</id>
+    <link href="https://huyvu15.github.io/Blog/posts/0r6e292f"/>
+    <id>https://huyvu15.github.io/Blog/posts/0r6e292f</id>
     <published>2024-06-27T05:17:12.000Z</published>
     <updated>2024-06-27T11:12:54.174Z</updated>
     
@@ -562,25 +562,25 @@ làm mờ, đảo ngược chữ của</summary>
     
     
     
-    <category term="Hiểu biết" scheme="https://huyvu15.github.io/categories/Hieu-biet/"/>
+    <category term="Hiểu biết" scheme="https://huyvu15.github.io/Blog/categories/Hieu-biet/"/>
     
     
-    <category term="Knownledge" scheme="https://huyvu15.github.io/tags/Knownledge/"/>
+    <category term="Knownledge" scheme="https://huyvu15.github.io/Blog/tags/Knownledge/"/>
     
-    <category term="Data" scheme="https://huyvu15.github.io/tags/Data/"/>
+    <category term="Data" scheme="https://huyvu15.github.io/Blog/tags/Data/"/>
     
-    <category term="Encrypted" scheme="https://huyvu15.github.io/tags/Encrypted/"/>
+    <category term="Encrypted" scheme="https://huyvu15.github.io/Blog/tags/Encrypted/"/>
     
-    <category term="Secure" scheme="https://huyvu15.github.io/tags/Secure/"/>
+    <category term="Secure" scheme="https://huyvu15.github.io/Blog/tags/Secure/"/>
     
-    <category term="Cần trả lời" scheme="https://huyvu15.github.io/tags/Can-tra-loi/"/>
+    <category term="Cần trả lời" scheme="https://huyvu15.github.io/Blog/tags/Can-tra-loi/"/>
     
   </entry>
   
   <entry>
     <title>Những thử thách gặp phải trong dự án Detect License Plate</title>
-    <link href="https://huyvu15.github.io/posts/2r3d326f"/>
-    <id>https://huyvu15.github.io/posts/2r3d326f</id>
+    <link href="https://huyvu15.github.io/Blog/posts/2r3d326f"/>
+    <id>https://huyvu15.github.io/Blog/posts/2r3d326f</id>
     <published>2024-06-12T08:39:12.000Z</published>
     <updated>2024-06-23T06:51:22.647Z</updated>
     
@@ -597,25 +597,25 @@ làm mờ, đảo ngược chữ của</summary>
     
     
     
-    <category term="Computer Vision" scheme="https://huyvu15.github.io/categories/Computer-Vision/"/>
+    <category term="Computer Vision" scheme="https://huyvu15.github.io/Blog/categories/Computer-Vision/"/>
     
     
-    <category term="AI" scheme="https://huyvu15.github.io/tags/AI/"/>
+    <category term="AI" scheme="https://huyvu15.github.io/Blog/tags/AI/"/>
     
-    <category term="Computer Vision" scheme="https://huyvu15.github.io/tags/Computer-Vision/"/>
+    <category term="Computer Vision" scheme="https://huyvu15.github.io/Blog/tags/Computer-Vision/"/>
     
-    <category term="Algorithms" scheme="https://huyvu15.github.io/tags/Algorithms/"/>
+    <category term="Algorithms" scheme="https://huyvu15.github.io/Blog/tags/Algorithms/"/>
     
-    <category term="Model" scheme="https://huyvu15.github.io/tags/Model/"/>
+    <category term="Model" scheme="https://huyvu15.github.io/Blog/tags/Model/"/>
     
-    <category term="Bugs" scheme="https://huyvu15.github.io/tags/Bugs/"/>
+    <category term="Bugs" scheme="https://huyvu15.github.io/Blog/tags/Bugs/"/>
     
   </entry>
   
   <entry>
     <title>Học gì để trở thành một Data Engineer</title>
-    <link href="https://huyvu15.github.io/posts/1r6d396f"/>
-    <id>https://huyvu15.github.io/posts/1r6d396f</id>
+    <link href="https://huyvu15.github.io/Blog/posts/1r6d396f"/>
+    <id>https://huyvu15.github.io/Blog/posts/1r6d396f</id>
     <published>2024-06-10T15:35:12.000Z</published>
     <updated>2024-06-10T01:14:03.899Z</updated>
     
@@ -633,14 +633,14 @@ làm mờ, đảo ngược chữ của</summary>
     
     
     
-    <category term="DE" scheme="https://huyvu15.github.io/categories/DE/"/>
+    <category term="DE" scheme="https://huyvu15.github.io/Blog/categories/DE/"/>
     
     
-    <category term="Knownledge" scheme="https://huyvu15.github.io/tags/Knownledge/"/>
+    <category term="Knownledge" scheme="https://huyvu15.github.io/Blog/tags/Knownledge/"/>
     
-    <category term="DE" scheme="https://huyvu15.github.io/tags/DE/"/>
+    <category term="DE" scheme="https://huyvu15.github.io/Blog/tags/DE/"/>
     
-    <category term="Data" scheme="https://huyvu15.github.io/tags/Data/"/>
+    <category term="Data" scheme="https://huyvu15.github.io/Blog/tags/Data/"/>
     
   </entry>
   
